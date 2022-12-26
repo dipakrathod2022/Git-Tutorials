@@ -4,6 +4,7 @@ import java.util.Scanner;
 class GFG {
     public static void main(String[] args)
     {
+        //done
         //krishna help me lots
         // Declare the variables
         int num;
